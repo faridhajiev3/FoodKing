@@ -1,0 +1,76 @@
+.nav {
+    display: flex;
+    padding: 30px 70px;
+    align-items: center;
+    justify-content: space-between; 
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: background-color 0.3s;
+    height: 100px;
+}
+
+
+.nav.scrolled {
+    background-color: #ffffff;
+}
+
+.navbar {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.food {
+    display: flex;
+    align-items: center;
+}
+
+.iconmain {
+    height: 45px;
+}
+
+.foodKing {
+    font-family: "Dosis", sans-serif;
+    font-size: 32px;
+    margin-left: 5px;
+    color: #232323;
+    font-weight: 600;
+}
+
+.item {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #1c2137;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.border-icon {
+    border: #1c2137 solid 1px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-medium {
+    font-size: 24px;
+    color: #198754;
+}
+
+.icon-hard {
+    font-size: 32px;
+    color: #198754;
+}
+
+.active {
+    color: #198754;
+}
+
+.totalBasket {
+    font-size: 18px;
+}

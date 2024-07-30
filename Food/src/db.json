@@ -1,0 +1,206 @@
+{
+  "foods": [
+    {
+      "id": "2",
+      "productName": "Açma",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet elit.  earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/678cf11a-b8af-4e1f-a7e5-aad7d900df42.jpg"
+    },
+    {
+      "id": "3",
+      "productName": "Hot-doq",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2024/04/02/dd69dc8a-7808-4770-8f62-4c40da81c260.png"
+    },
+    {
+      "id": "4",
+      "productName": "Simit",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/2afec0bd-6aa4-4f3e-beba-f5af64983fe6.png"
+    },
+    {
+      "id": "5",
+      "productName": "Banan",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/c2e8e5a2-6232-43e4-870b-c2d1e15aee1a.png"
+    },
+    {
+      "id": "6",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2024/04/02/dd69dc8a-7808-4770-8f62-4c40da81c260.png"
+    },
+    {
+      "id": "7",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    },
+    {
+      "id": "8",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    },
+    {
+      "id": "9",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    },
+    {
+      "id": "10",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    },
+    {
+      "id": "30",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    },
+    {
+      "id": "40",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    },
+    {
+      "id": "50",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    }
+  ],
+  "meals": [
+    {
+      "id": "11",
+      "productName": "Açma Pendirliii",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/678cf11a-b8af-4e1f-a7e5-aad7d900df42.jpg"
+    },
+    {
+      "id": "12",
+      "productName": "Açma Pendirliiiiiii",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/15/271b0d04-9e3c-4ab4-a35a-f8e1b2e6bbbe.png"
+    },
+    {
+      "id": "13",
+      "productName": "Açma Pendirliiiiiiiiiiiiiiiiiiiii",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2024/04/02/dd69dc8a-7808-4770-8f62-4c40da81c260.png"
+    },
+    {
+      "id": "14",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/29/0decb6fc-9ef5-42d1-a515-dc27a664a8a8.jpg"
+    },
+    {
+      "id": "15",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/678cf11a-b8af-4e1f-a7e5-aad7d900df42.jpg"
+    },
+    {
+      "id": "16",
+      "productName": "Açma Pendirli",
+      "info": "Bakery → Pendirli",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 1.2,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/27/a5f7efb3-1406-41cf-a94f-b2d8123cc033.png"
+    }
+  ],
+  "medicine": [
+    {
+      "id": "100",
+      "productName": "Tylol Hot",
+      "info": "Aptek → Qrip əleyhinə",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 0.8,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/4269ea0a-195e-497f-bc1c-5daef5457b47.png"
+    },
+    {
+      "id": "101",
+      "productName": "Tylol Hot",
+      "info": "Aptek → Qrip əleyhinə",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 0.8,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/4269ea0a-195e-497f-bc1c-5daef5457b47.png"
+    },
+    {
+      "id": "102",
+      "productName": "Tylol Hot",
+      "info": "Aptek → Qrip əleyhinə",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 0.8,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/4269ea0a-195e-497f-bc1c-5daef5457b47.png"
+    },
+    {
+      "id": "103",
+      "productName": "Tylol Hot",
+      "info": "Aptek → Qrip əleyhinə",
+      "spoiler": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo molestiae earum ducimus, architecto blanditiis a. Illum dicta ratione nihil dolorum, ipsam ipsa nulla praesentium sunt maxime rerum dolorem perferendis illo nesciunt minus itaque hic recusandae molestias? Id eum nesciunt laborum, sint possimus eveniet, earum est hic magni consequatur blanditiis",
+      "price": 0.8,
+      "star": 5,
+      "productImage": "https://foodking.program.az/operation/Uploads/Products/2023/12/21/4269ea0a-195e-497f-bc1c-5daef5457b47.png"
+    }
+  ]
+}

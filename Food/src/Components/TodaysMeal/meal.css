@@ -1,0 +1,16 @@
+.borderColor {
+    background-color: #F4F4F4;
+}
+
+.borderMeal {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.todayMeal {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 110px;
+    gap: 15px;
+    justify-content: center;
+}

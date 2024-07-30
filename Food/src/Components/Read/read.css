@@ -1,0 +1,159 @@
+.mainPagee {
+    background-color: #D8F1E5;
+    overflow: hidden;
+    display: flex;
+    padding: 90px 0 0 90px;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    opacity: 0.5;
+    background-color: #f0f0f0;
+    color: #666; 
+}
+
+.border-main {
+    width: 45%;
+    max-height: 600px;
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    overflow-y: auto;
+}
+
+.border-green {
+    background-color: #3BB77E;
+    padding: 10px;
+}
+
+.border-green p {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.readImg {
+    width: 320px;
+    height: 320px;
+    border-radius: 15px;
+}
+
+.content-product {
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+}
+
+.readName {
+    font-size: 32px;
+}
+
+.readPrice {
+    font-size: 19px;
+    color: #5ea7ec;
+    padding: 20px 0;
+}
+
+.readInfo {
+    font-size: 22px;
+}
+
+.readSpoiler {
+    font-size: 18px;
+    padding: 5px 0 30px 0;
+}
+
+.doubleBasket {
+    padding: 14px 46px;
+    background: #FFBA43;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.doubleBasket:hover {
+    background-color: #3BB77E;
+}
+
+.black {
+    color: #000;
+    font-size: 18px;
+}
+
+.readStar {
+
+    padding: 10px 0 0 0;
+}
+
+.rate {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.starss {
+    display: flex;
+    gap: 8px;
+    font-size: 20px;
+    color: yellow;
+    padding: 15px 0;
+}
+
+.comments {
+    width: 80%;
+    border-radius: 15px;
+    border-color: #3BB77E;
+    padding: 8px 20px;
+    outline-color: #3BB77E;
+
+}
+
+.second-section {
+    padding: 20px;
+}
+
+.sends {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.get {
+    color: #3BB77E;
+    font-size: 24px;
+}
+
+.backofblack {
+    margin-top: 10px;
+    padding: 14px 44px;
+    background: #FFBA43;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.backofblack:hover {
+    background-color: #e63946;
+}
+
+.commentsList {
+    max-height: 200px;
+    overflow-y: auto;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.comment {
+    margin: 10px 0;
+    background-color: #d5f4e7;
+    width: 60%;
+    padding: 10px 10px;
+    border-radius: 10px;
+}

@@ -1,0 +1,65 @@
+.imgFood {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.core {
+    background-color: #EEF2F3;
+}
+
+.backcolor {
+    background-color: #EEF2F3;
+    width: 100%;
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borderFood {
+    width: 75%;
+    min-height: 100px;
+    background-color: #fff;
+    margin: 40px;
+    border-radius: 20px;
+}
+
+.product {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 24px;
+    font-size: 22px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    color: #3bb77e;
+}
+
+.imgProduct {
+    width: 100px;
+    height: 100px;
+}
+
+.nameProduct {
+    font-size: 18px;
+}
+
+.likes {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.money {
+    font-size: 18px;
+}
+
+.basket {
+    font-size: 18px;
+}
+
+.bin {
+    font-size: 24px;
+}
+
